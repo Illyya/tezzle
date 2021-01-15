@@ -1,5 +1,8 @@
 # tezzle
 
+## Сайт
+https://illyya.github.io/tezzle/
+
 ## Project setup
 ```
 npm install
